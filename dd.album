@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Album>
+    <Header>
+        <Application Name="GLC-Player" Version="2.1"/>
+    </Header>
+    <Root>
+        <Model AFileName="C:/Users/tz7/Desktop/dd\3dModels\eve.obj" RFileName="eve.obj">
+            <Camera Angle="35">
+                <Eye x="-3.62463" y="-3.60955" z="5.69986"/>
+                <Target x="-0.00269744" y="0.0123767" z="2.07793"/>
+                <Up x="0.408248" y="0.408248" z="0.816497"/>
+                <DefaultUp x="0" y="0" z="1"/>
+            </Camera>
+            <Materials size="0"/>
+            <InvisibleInstances size="0"/>
+            <Shaders size="0"/>
+        </Model>
+    </Root>
+</Album>
